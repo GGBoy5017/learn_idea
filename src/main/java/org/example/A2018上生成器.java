@@ -1,6 +1,5 @@
 package org.example;
 
-import java.util.*;
 /**
  * 名称A2018上生成器
  * 描述

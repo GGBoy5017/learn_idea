@@ -1,4 +1,4 @@
-package org.ggboy;
+package xdu.ggboy;
 
 public class test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example;
+package xdu.example;
 
 /**
  * 名称A2018上生成器

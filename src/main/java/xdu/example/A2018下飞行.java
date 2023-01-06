@@ -1,5 +1,5 @@
-package org.example;
-import java.util.*;
+package xdu.example;
+
 /**
  * 名称A2018下飞行
  * 描述

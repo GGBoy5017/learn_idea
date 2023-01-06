@@ -1,4 +1,4 @@
-package org.ggboy;
+package xdu.ggboy;
 
 /**
  * 名称工厂方法实例
